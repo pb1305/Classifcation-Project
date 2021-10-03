@@ -13,7 +13,7 @@ Following python libraries need to be installed:
 * numpy
 * sickit-learn
 
-* Datasets:2
+Datasets: 2
 * Format: csv
 * Dateset 1 - train.csv 
 * Dataset 2 - test.csv
